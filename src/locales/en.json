@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes",
+    "combat": "Combat",
+    "progression": "Progression",
+    "controls": "Controls",
+    "modes": "Modes",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -417,7 +424,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "First Person Boxing Guide: How to Play, Tips & Strategies",
+    "overviewDescription": "Learn how to play First Person Boxing on Roblox with beginner walkthroughs, advanced techniques, and match-winning strategies for every skill level."
+  },
+  "codes": {
+    "overviewTitle": "First Person Boxing Codes: Active Codes & How to Redeem",
+    "overviewDescription": "Every active First Person Boxing code in one place, plus a step-by-step guide on how to redeem them for free in-game rewards."
+  },
+  "combat": {
+    "overviewTitle": "First Person Boxing Combat Guide: Punching, Dodging & Counters",
+    "overviewDescription": "Master punching techniques, blocking, dodging, counter attacks, and combos so you can read any opponent and end fights early."
+  },
+  "progression": {
+    "overviewTitle": "First Person Boxing Progression: Leveling, Ranks & Builds",
+    "overviewDescription": "Level up faster with First Person Boxing progression guides covering the fastest XP routes, the ranking system, ranks, and the best builds."
+  },
+  "controls": {
+    "overviewTitle": "First Person Boxing Controls: Keybinds & Controller Setup",
+    "overviewDescription": "Full First Person Boxing controls and keybinds for PC, controller, and mobile, so you can set up a layout that fits your fighting style."
+  },
+  "modes": {
+    "overviewTitle": "First Person Boxing Modes: Ranked, Multiplayer & Training",
+    "overviewDescription": "Explore every First Person Boxing mode, from ranked matches and multiplayer lobbies to private servers and solo training rooms."
+  },
+  "community": {
+    "overviewTitle": "First Person Boxing Community: Updates, Discord & Beta",
+    "overviewDescription": "Stay current with First Person Boxing updates, beta news, the official Discord, and the Reddit community."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -448,9 +482,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Combat Guides",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "combatGuides": "Combat Guides",
+    "codesGuides": "Codes",
+    "progressionGuides": "Progression",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
