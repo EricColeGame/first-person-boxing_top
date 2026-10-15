@@ -1,1 +1,493 @@
-{}
+{
+  "site": {
+    "name": "Wiki de First Person Boxing",
+    "shortName": "First Person Boxing",
+    "tagline": "Controles, mecânicas de combate, counters e guias para iniciantes",
+    "description": "Sua wiki definitiva de First Person Boxing no Roblox. Aprenda os controles, esquivas, counters, guardas, gerenciamento de stamina e estratégias de combate PvP para vencer todas as lutas.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guias",
+    "codes": "Códigos",
+    "combat": "Combate",
+    "progression": "Progressão",
+    "controls": "Controles",
+    "modes": "Modos",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de First Person Boxing - Controles, guias e dicas",
+      "description": "Aprenda estratégias de First Person Boxing, controles, mecânicas de combate, gerenciamento de stamina, guardas, counters e dicas para iniciantes e melhore suas lutas até dominar o ringue."
+    },
+    "hero": {
+      "eyebrow": "Jogo de boxe em primeira pessoa",
+      "title": "Wiki de First Person Boxing",
+      "description": "Domine First Person Boxing com guias de controles, esquivas, counters, guardas, gerenciamento de stamina e estratégias de combate PvP.",
+      "stats": [
+        "391,3K+ visitas totais",
+        "1.646 jogadores online",
+        "16 jogadores por servidor",
+        "15 out 2026 última atualização"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Guia para iniciantes",
+      "tertiaryCta": "Controles e counters",
+      "videoLabel": "Demonstração de gameplay"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em First Person Boxing",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda a base, a guarda e o jogo de pés que fazem o First Person Boxing clicar, além da configuração do espaço de jogo e dos exercícios que evitam maus hábitos desde o começo."
+        },
+        {
+          "number": "2",
+          "title": "Controles e atalhos",
+          "description": "Configure movimento, jabs, cruzados, bloqueio e esquivas no teclado, controle ou VR para que cada comando responda no instante em que surge uma abertura."
+        },
+        {
+          "number": "3",
+          "title": "Esquiva e counter",
+          "description": "Leia o comprometimento do adversário, saia da linha do golpe no último momento seguro e solte um counter curto antes que a guarda volte."
+        },
+        {
+          "number": "4",
+          "title": "Códigos ativos",
+          "description": "Confira os códigos mais recentes de First Person Boxing, siga o passo a passo de resgate e saiba quais recompensas vale priorizar primeiro."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Controles",
+        "Esquiva e counter",
+        "Todos os códigos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciantes",
+          "title": "Guia para iniciantes",
+          "description": "Base, guarda, jogo de pés e equipamento para suas primeiras partidas de First Person Boxing.",
+          "href": "/guide/first-person-boxing-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos ativos",
+          "description": "Todos os códigos válidos de First Person Boxing e o passo a passo de resgate.",
+          "href": "/codes/first-person-boxing-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Controles e atalhos",
+          "description": "Layouts de teclado, controle e VR para movimento, golpes e defesa.",
+          "href": "/controls/first-person-boxing-controls"
+        },
+        {
+          "badge": "Popular",
+          "title": "Esquivas e contra-ataques",
+          "description": "As três janelas de counter e como punir um golpe comprometido.",
+          "href": "/combat/first-person-boxing-counter-attacks"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia de esquivas",
+          "description": "Técnicas de esquiva, rolamento, agachamento e saída treinadas até virar memória muscular.",
+          "href": "/combat/first-person-boxing-dodging"
+        },
+        {
+          "badge": "Popular",
+          "title": "Como vencer lutas",
+          "description": "Distância, timing e gerenciamento de stamina em todos os rounds.",
+          "href": "/guide/first-person-boxing-how-to-win"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de combate",
+          "description": "Timing de esquiva, disciplina de guarda e planos contra estilos comuns de adversário.",
+          "href": "/guide/first-person-boxing-combat-guide"
+        },
+        {
+          "badge": "Novo",
+          "title": "Técnicas avançadas",
+          "description": "Vá além do básico com movimento de nível superior e melhor escolha de golpes.",
+          "href": "/guide/first-person-boxing-advanced-techniques"
+        },
+        {
+          "badge": "Novo",
+          "title": "Registro de atualizações",
+          "description": "Mudanças em combate, controles e modos conforme chegam.",
+          "href": "/community/first-person-boxing-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é First Person Boxing?",
+      "paragraphs": [
+        "First Person Boxing é uma experiência de boxe em primeira pessoa no Roblox desenvolvida pela Can You Box?. Em vez de assistir ao lutador de fora, você olha com os próprios olhos, lê as intenções do adversário e acerta cada golpe você mesmo em partidas PvP e sessões de treino contra a IA.",
+        "As trocas são construídas sobre base, disciplina de guarda e gerenciamento de stamina, e não sobre combos de botões. Timing de esquiva, controle de distância e janelas de counter decidem quem vence o round, e nossa wiki de First Person Boxing detalha cada sistema com tabelas de atalhos, exercícios passo a passo e guias de confronto."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedora",
+          "value": "Can You Box?"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Boxe / Luta"
+        },
+        {
+          "label": "Visitas totais",
+          "value": "391,3K+"
+        },
+        {
+          "label": "Jogadores online",
+          "value": "1.646"
+        },
+        {
+          "label": "Jogadores por servidor",
+          "value": "16"
+        },
+        {
+          "label": "Última atualização",
+          "value": "15 out 2026"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a wiki de First Person Boxing",
+      "description": "Todos os sistemas principais de First Person Boxing em um só lugar: controles e atalhos, guias para iniciantes e de combate, timing de esquiva e counter, táticas de nocaute, códigos ativos e histórico de atualizações.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para iniciantes de First Person Boxing",
+          "description": "Novo no ringue? Este guia para iniciantes de First Person Boxing cobre configuração, base, jogo de pés e rastreamento dos socos com um caminho claro da primeira luta até acertar counters limpos.",
+          "href": "/guide/first-person-boxing-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prepare um espaço de jogo livre e calibre seu headset ou controle antes do primeiro sino"
+            },
+            {
+              "label": "2",
+              "detail": "Construa uma base equilibrada com o pé da frente à frente e as mãos na altura das maçãs do rosto"
+            },
+            {
+              "label": "3",
+              "detail": "Solte golpes retos e volte para a guarda para que o rastreador leia linhas limpas"
+            },
+            {
+              "label": "4",
+              "detail": "Priorize a defesa: bloqueie, esquive e reinicie em vez de trocar golpes descontrolados"
+            },
+            {
+              "label": "5",
+              "detail": "Leve seus fundamentos para uma primeira luta e revise o que quebrou"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Controles de First Person Boxing",
+          "description": "Todos os comandos que importam em First Person Boxing: movimento, jabs, cruzados, bloqueio e esquivas no teclado, controle e VR, com os atalhos exatos e dicas de remapeamento.",
+          "href": "/controls/first-person-boxing-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "W A S D",
+              "detail": "Mover e circular: mantém o jogo de pés em uma mão com a memória muscular padrão de FPS"
+            },
+            {
+              "label": "Mouse 1",
+              "detail": "Jab (mão da frente): o comando mais rápido para achar a distância e testar uma guarda"
+            },
+            {
+              "label": "Mouse 2",
+              "detail": "Cruzado (mão de trás): combina com o jab para que os dois golpes dividam a mesma mão"
+            },
+            {
+              "label": "Espaço",
+              "detail": "Bloqueio / guarda (segurar): com o polegar ou o mindinho, nunca com um dedo de golpe"
+            },
+            {
+              "label": "Shift + golpe",
+              "detail": "Modificador de uppercut: evita comandos errados no meio da troca"
+            },
+            {
+              "label": "Toque duplo A / D",
+              "detail": "Esquiva para a esquerda ou direita: mantém as mãos livres para soltar o counter"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Dicas de combate de First Person Boxing",
+          "description": "As técnicas que decidem as trocas em First Person Boxing, ordenadas da leitura de esquiva e counter no topo até os fundamentos de guarda que todo lutador precisa.",
+          "href": "/guide/first-person-boxing-combat-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Esquiva e counter: leia o comprometimento, saia da linha e puna a janela de recuperação"
+            },
+            {
+              "label": "A",
+              "detail": "Controle de distância: domine as faixas longa, média, curta e de saída em vez de adivinhar o espaço"
+            },
+            {
+              "label": "B",
+              "detail": "Disciplina de stamina: golpeie em rajadas e guarde gás para os rounds finais"
+            },
+            {
+              "label": "C",
+              "detail": "Fundamentos de guarda: queixo baixo e mãos altas para que golpes errados virem aberturas"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Códigos de First Person Boxing",
+          "description": "Os códigos mais recentes de First Person Boxing, o que cada recompensa dá e um passo a passo de resgate para você resgatar tudo antes de expirar.",
+          "href": "/codes/first-person-boxing-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "EM-BREVE",
+              "detail": "Nenhum código de First Person Boxing está ativo agora: os novos chegam junto com as atualizações"
+            },
+            {
+              "label": "MENU-CÓDIGOS",
+              "detail": "Abra o botão de códigos no menu principal ou na loja, cole o código e confirme"
+            },
+            {
+              "label": "SENSÍVEL-A-MAIÚSCULAS",
+              "detail": "Cole os códigos exatamente como estão escritos; um espaço extra ou uma maiúscula fora do lugar fazem falhar"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de esquiva e counter de First Person Boxing",
+          "description": "Como a esquiva e o bloqueio transformam um golpe perdido em dano grátis. Siga o ciclo de cinco passos para timing defensivo, janelas de counter e volta à distância.",
+          "href": "/combat/first-person-boxing-counter-attacks",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Confirme que o adversário está avançando para golpear e não fingindo para provocar reação"
+            },
+            {
+              "label": "2",
+              "detail": "Identifique a linha do ataque e saia dela, não a acompanhe"
+            },
+            {
+              "label": "3",
+              "detail": "Esquive no último momento seguro para o golpe errar sem você sair de alcance"
+            },
+            {
+              "label": "4",
+              "detail": "Contra-ataque imediatamente enquanto o adversário ainda se recupera do erro"
+            },
+            {
+              "label": "5",
+              "detail": "Volte ao movimento e à guarda para não ficar parado na continuação"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de nocaute de First Person Boxing",
+          "description": "Crie chances de nocaute em First Person Boxing com golpes precisos, reações defensivas e gerenciamento de stamina em vez de swings descontrolados.",
+          "href": "/guide/first-person-boxing-how-to-win",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Distância",
+              "detail": "Domine as zonas longa, média, curta e de saída para acertar dois golpes e sair em ângulo"
+            },
+            {
+              "label": "Timing",
+              "detail": "Solte os counters dentro da janela de comprometimento, não enquanto o golpe ainda está carregando"
+            },
+            {
+              "label": "Stamina",
+              "detail": "Golpeie em rajadas e guarde gás suficiente para a guarda não cair no fim"
+            },
+            {
+              "label": "Guarda",
+              "detail": "Mantenha as mãos altas para que o golpe errado do adversário vire sua abertura de nocaute"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Registro de atualizações de First Person Boxing",
+          "description": "Acompanhe as atualizações de First Person Boxing conforme saem, de ajustes no rastreamento dos socos e na detecção de impacto até novos exercícios, modos e melhorias de qualidade de vida.",
+          "href": "/community/first-person-boxing-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rastreamento",
+              "detail": "Os patches suavizam a interpolação de cabeça e mãos para os jabs pararem de travar no ar"
+            },
+            {
+              "label": "Impacto",
+              "detail": "Volumes de colisão mais justos de luva e queixo fazem golpes limpos entrarem e erros fantasmas caírem"
+            },
+            {
+              "label": "Balanceamento",
+              "detail": "Dano, stamina e limites de nocaute são reequilibrados entre as atualizações"
+            },
+            {
+              "label": "Modos",
+              "detail": "Novas academias, exercícios de treino e filas multiplayer chegam com o tempo"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guia geral de First Person Boxing",
+          "description": "Uma visão geral de First Person Boxing: o que a visão em primeira pessoa muda, como funcionam o PvP e o treino contra a IA, e o caminho mais rápido para ficar confortável no ringue.",
+          "href": "/guide/first-person-boxing-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plataformas",
+              "detail": "Jogue no Roblox em PC, celular e console, com configurações compatíveis com movimento"
+            },
+            {
+              "label": "PvP",
+              "detail": "Lute contra outros jogadores em partidas ranqueadas e casuais para testar suas leituras sob pressão"
+            },
+            {
+              "label": "Treino",
+              "detail": "Treine contra adversários de IA para trabalhar base, guarda e timing de counter com segurança"
+            },
+            {
+              "label": "Configuração",
+              "detail": "Limpe seu espaço de jogo e aprenda o mapa de controles antes da primeira luta de verdade"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes sobre First Person Boxing",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre First Person Boxing.",
+      "items": [
+        {
+          "question": "O que é First Person Boxing?",
+          "answer": "First Person Boxing é uma experiência de boxe em primeira pessoa no Roblox da desenvolvedora Can You Box?. Você luta com os próprios olhos, lendo as intenções do adversário e dando golpes reais em partidas PvP e sessões de treino contra a IA."
+        },
+        {
+          "question": "Como começo a jogar First Person Boxing?",
+          "answer": "Prepare um espaço de jogo seguro, aprenda o mapa de controles e treine sua base e guarda antes da primeira luta. Nosso guia para iniciantes cobre configuração, jogo de pés e rastreamento dos socos passo a passo."
+        },
+        {
+          "question": "Quais são os controles de First Person Boxing?",
+          "answer": "O movimento fica no WASD, o jab da mão da frente no botão esquerdo do mouse, o cruzado da mão de trás no direito e o bloqueio ou a guarda na barra de espaço. As esquivas ficam em toques duplos ou teclas dedicadas, e todo comando pode ser remapeado."
+        },
+        {
+          "question": "Existem códigos de First Person Boxing?",
+          "answer": "Os códigos chegam junto com atualizações e marcos. Quando estiverem ativos, cole-os exatamente como estão escritos no menu de códigos e confirme antes de fechar o jogo. Nossa página de códigos mostra o que está ativo agora."
+        },
+        {
+          "question": "Como fico melhor em First Person Boxing?",
+          "answer": "A defesa cria a ofensiva. Treine o ciclo de esquiva e counter, administre a stamina ao longo dos rounds e estude os guias de confronto para os estilos que mais te derrotam."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar First Person Boxing?",
+      "description": "Da primeira luta aos counters prontos para ranqueada, nossa wiki da comunidade cobre controles, guardas, gerenciamento de stamina e estratégias PvP com guias gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de First Person Boxing: como jogar, dicas e estratégias",
+    "overviewDescription": "Aprenda a jogar First Person Boxing no Roblox com tutoriais para iniciantes, técnicas avançadas e estratégias vencedoras para todos os níveis de habilidade."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de First Person Boxing: códigos ativos e como resgatar",
+    "overviewDescription": "Todos os códigos ativos de First Person Boxing em um só lugar, além de um guia passo a passo para resgatá-los e ganhar recompensas grátis no jogo."
+  },
+  "combat": {
+    "overviewTitle": "Guia de combate de First Person Boxing: socos, esquivas e counters",
+    "overviewDescription": "Domine técnicas de soco, bloqueio, esquiva, contra-ataque e combos para ler qualquer adversário e encerrar as lutas mais cedo."
+  },
+  "progression": {
+    "overviewTitle": "Progressão em First Person Boxing: níveis, ranks e builds",
+    "overviewDescription": "Suba de nível mais rápido com os guias de progressão de First Person Boxing: rotas de XP mais rápidas, o sistema de ranking, os ranks e as melhores builds."
+  },
+  "controls": {
+    "overviewTitle": "Controles de First Person Boxing: atalhos e configuração de controle",
+    "overviewDescription": "Todos os controles e atalhos de First Person Boxing para PC, controle e celular, para você montar um layout que combine com seu estilo de luta."
+  },
+  "modes": {
+    "overviewTitle": "Modos de First Person Boxing: ranqueada, multiplayer e treino",
+    "overviewDescription": "Explore todos os modos de First Person Boxing, de partidas ranqueadas e lobbies multiplayer a servidores privados e salas de treino solo."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de First Person Boxing: atualizações, Discord e beta",
+    "overviewDescription": "Fique por dentro das atualizações de First Person Boxing, das notícias da beta, do Discord oficial e da comunidade no Reddit."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!",
+    "noActiveCodes": "Nenhum código ativo no momento",
+    "stayTuned": "Volte em breve para novos códigos"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de First Person Boxing",
+    "about": "A Wiki de First Person Boxing é um hub de guias independente feito por fãs que cobre controles, mecânicas de combate, esquivas, counters, gerenciamento de stamina, estratégias PvP e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de First Person Boxing. Sem afiliação com o Roblox ou com os desenvolvedores de First Person Boxing.",
+    "description": "Boxe em primeira pessoa no Roblox. Esquive, contra-ataque, bloqueie e gerencie sua stamina para vencer suas lutas.",
+    "playGame": "Jogar no Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Guias de combate",
+    "beginnerGuide": "Guia para iniciantes",
+    "combatGuides": "Guias de combate",
+    "codesGuides": "Códigos",
+    "progressionGuides": "Progressão",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}

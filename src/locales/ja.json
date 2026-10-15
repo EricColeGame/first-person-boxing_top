@@ -1,1 +1,493 @@
-{}
+{
+  "site": {
+    "name": "First Person Boxing 攻略Wiki",
+    "shortName": "First Person Boxing",
+    "tagline": "操作・戦闘システム・カウンター・初心者ガイド",
+    "description": "RobloxのFirst Person Boxing総合攻略Wiki。操作、スウェー、カウンター、ガード、スタミナ管理、PvP戦闘の戦略を学んで、すべての試合に勝ちましょう。",
+    "legalNotice": "非公式のファンWikiです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替",
+    "guide": "ガイド",
+    "codes": "コード",
+    "combat": "戦闘",
+    "progression": "成長",
+    "controls": "操作",
+    "modes": "モード",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "First Person Boxing 攻略Wiki - 操作・ガイド・コツ",
+      "description": "First Person Boxingの戦略、操作、戦闘システム、スタミナ管理、ガード、カウンター、初心者向けのコツを解説。試合内容を改善してリングを支配しましょう。"
+    },
+    "hero": {
+      "eyebrow": "一人称視点のボクシングゲーム",
+      "title": "First Person Boxing 攻略Wiki",
+      "description": "操作、スウェー、カウンター、ガード、スタミナ管理、PvP戦闘の戦略をまとめたガイドでFirst Person Boxingを極めましょう。",
+      "stats": [
+        "累計訪問 391.3K+",
+        "オンライン 1,646人",
+        "サーバー上限 16人",
+        "2026年10月15日 最終更新"
+      ],
+      "primaryCta": "Robloxでプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "操作とカウンター",
+      "videoLabel": "ゲームプレイ紹介"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "First Person Boxingを始める道のり",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "First Person Boxingの感覚がつかめる構え、ガード、フットワークを解説。プレイスペースの準備と、悪い癖がつく前に止めるドリルも紹介します。"
+        },
+        {
+          "number": "2",
+          "title": "操作とキー設定",
+          "description": "移動、ジャブ、クロス、ブロック、スウェーをキーボード・ゲームパッド・VRに割り当て、隙が見えた瞬間に入力が出るようにします。"
+        },
+        {
+          "number": "3",
+          "title": "スウェーとカウンター",
+          "description": "相手の踏み込みを読み、ギリギリ安全な瞬間にパンチラインから外れ、ガードが戻る前に短いカウンターを打ち込みます。"
+        },
+        {
+          "number": "4",
+          "title": "有効コード",
+          "description": "最新のFirst Person Boxingコード、順を追った入力手順、そして優先して取るべき報酬を確認できます。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今注目の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "操作",
+        "スウェーとカウンター",
+        "すべてのコード"
+      ],
+      "cards": [
+        {
+          "badge": "初心者向け",
+          "title": "初心者ガイド",
+          "description": "最初のFirst Person Boxingに必要な構え、ガード、フットワーク、装備の準備。",
+          "href": "/guide/first-person-boxing-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "有効コード",
+          "description": "現在有効なFirst Person Boxingコードと、順を追った入力手順。",
+          "href": "/codes/first-person-boxing-codes"
+        },
+        {
+          "badge": "人気",
+          "title": "操作とキー設定",
+          "description": "移動・パンチ・防御のためのキーボード、ゲームパッド、VRレイアウト。",
+          "href": "/controls/first-person-boxing-controls"
+        },
+        {
+          "badge": "人気",
+          "title": "スウェーとカウンター",
+          "description": "3つのカウンター可能なタイミングと、踏み込んだパンチへの反撃方法。",
+          "href": "/combat/first-person-boxing-counter-attacks"
+        },
+        {
+          "badge": "新着",
+          "title": "回避ガイド",
+          "description": "スウェー、回り込み、ダッキング、ステップアウトを体に覚えさせます。",
+          "href": "/combat/first-person-boxing-dodging"
+        },
+        {
+          "badge": "人気",
+          "title": "試合に勝つ方法",
+          "description": "全ラウンドを通した距離、タイミング、スタミナ管理。",
+          "href": "/guide/first-person-boxing-how-to-win"
+        },
+        {
+          "badge": "人気",
+          "title": "戦闘ガイド",
+          "description": "スウェーのタイミング、ガードの徹底、よくある相手スタイル別の対策。",
+          "href": "/guide/first-person-boxing-combat-guide"
+        },
+        {
+          "badge": "新着",
+          "title": "上級テクニック",
+          "description": "より高度な動きとパンチ選択で基礎の先へ進みます。",
+          "href": "/guide/first-person-boxing-advanced-techniques"
+        },
+        {
+          "badge": "新着",
+          "title": "アップデート履歴",
+          "description": "戦闘、操作、モードの変更点を随時まとめています。",
+          "href": "/community/first-person-boxing-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "First Person Boxingとは？",
+      "paragraphs": [
+        "First Person Boxingは、Can You Box?が開発したRobloxの一人称視点ボクシング体験です。外からファイターを眺めるのではなく、自分の目で見て、相手の予備動作を読み、PvPマッチやAIとの練習で自分の手でパンチを当てていきます。",
+        "打ち合いはボタンのコンボではなく、構え、ガードの徹底、スタミナ管理で組み立てられます。スウェーのタイミング、距離のコントロール、カウンターの猶予がラウンドの勝敗を決め、当Wikiではキー割り当て表、順を追ったドリル、対戦相手別のガイドで各システムを解説します。"
+      ],
+      "stats": [
+        {
+          "label": "開発者",
+          "value": "Can You Box?"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ボクシング / 格闘"
+        },
+        {
+          "label": "累計訪問数",
+          "value": "391.3K+"
+        },
+        {
+          "label": "オンラインプレイヤー",
+          "value": "1,646"
+        },
+        {
+          "label": "サーバー上限",
+          "value": "16"
+        },
+        {
+          "label": "最終更新",
+          "value": "2026年10月15日"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "First Person Boxing 攻略Wikiを探す",
+      "description": "First Person Boxingの中核システムを一か所に集約。操作とキー設定、初心者・戦闘ガイド、スウェーとカウンターのタイミング、KO戦術、有効コード、アップデート履歴をまとめています。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "First Person Boxing 初心者ガイド",
+          "description": "リングは初めてですか？この初心者ガイドでは、準備、構え、フットワーク、パンチのトラッキングを扱い、初試合からクリーンなカウンターを決めるまでを順に解説します。",
+          "href": "/guide/first-person-boxing-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ゴングの前に、周囲を片付けたプレイスペースを確保し、ヘッドセットやコントローラーを調整する"
+            },
+            {
+              "label": "2",
+              "detail": "前足を前に出し、両手を頬骨の高さに置いたバランスの良い構えを作る"
+            },
+            {
+              "label": "3",
+              "detail": "ストレートを鋭く打ち、ガードに素早く戻してトラッカーにきれいな軌道を読ませる"
+            },
+            {
+              "label": "4",
+              "detail": "まずは防御を優先し、無茶な打ち合いではなくブロック、スウェー、立て直しを選ぶ"
+            },
+            {
+              "label": "5",
+              "detail": "基礎を初試合に持ち込み、どこで崩れたかを振り返る"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "First Person Boxing 操作一覧",
+          "description": "First Person Boxingで重要なすべての入力。移動、ジャブ、クロス、ブロック、スウェーをキーボード・ゲームパッド・VR別に、正確な割り当てと再設定のコツ付きで解説します。",
+          "href": "/controls/first-person-boxing-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "W A S D",
+              "detail": "移動と回り込み — 標準的なFPSの操作感でフットワークを片手に集約"
+            },
+            {
+              "label": "マウス1",
+              "detail": "ジャブ（前の手）— 距離を測りガードを試す最速の入力"
+            },
+            {
+              "label": "マウス2",
+              "detail": "クロス（後ろの手）— ジャブと組み合わせ、両方のパンチを同じ手で扱う"
+            },
+            {
+              "label": "スペース",
+              "detail": "ブロック / ガード（長押し）— 親指か小指で操作し、パンチ用の指は使わない"
+            },
+            {
+              "label": "Shift + パンチ",
+              "detail": "アッパーカットの修飾キー — 打ち合い中の誤入力を防ぐ"
+            },
+            {
+              "label": "A / D を2回タップ",
+              "detail": "左右へのスウェー — 手を空けたままカウンターを打てる"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "First Person Boxing 戦闘のコツ",
+          "description": "First Person Boxingの打ち合いを決める技術を、頂点のスウェー＆カウンターから、すべてのファイターに必要なガードの基礎まで順に並べました。",
+          "href": "/guide/first-person-boxing-combat-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "スウェー＆カウンター — 踏み込みを読み、ラインから外れ、戻りの隙を叩く"
+            },
+            {
+              "label": "A",
+              "detail": "距離のコントロール — 遠・中・近・離脱の間合いを感覚ではなく制御する"
+            },
+            {
+              "label": "B",
+              "detail": "スタミナ管理 — まとめて打ち、終盤のラウンドに備えて余力を残す"
+            },
+            {
+              "label": "C",
+              "detail": "ガードの基礎 — あごを引き手を高く保ち、空振りを隙に変えられないようにする"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "First Person Boxing コード",
+          "description": "最新のFirst Person Boxingコード、各報酬の内容、期限前にすべて受け取るための順を追った入力手順を紹介します。",
+          "href": "/codes/first-person-boxing-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "近日公開",
+              "detail": "現在有効なFirst Person Boxingコードはありません — 新しいコードはアップデートとともに配布されます"
+            },
+            {
+              "label": "コードメニュー",
+              "detail": "メインメニューかショップのコードボタンを開き、コードを貼り付けて確定します"
+            },
+            {
+              "label": "大文字小文字を区別",
+              "detail": "コードは記載どおりに貼り付けてください。末尾の空白や大文字の間違いがあると失敗します"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "First Person Boxing スウェー＆カウンターガイド",
+          "description": "スウェーとブロックで相手の空振りを無料のダメージに変える方法。防御のタイミング、カウンターの猶予、間合いの立て直しを5ステップで解説します。",
+          "href": "/combat/first-person-boxing-counter-attacks",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "相手が反応を引き出すフェイントではなく、本当にパンチを打ち込んでくるか確認する"
+            },
+            {
+              "label": "2",
+              "detail": "攻撃ラインを見極め、その線に沿うのではなく線から外れる"
+            },
+            {
+              "label": "3",
+              "detail": "ギリギリ安全な瞬間にスウェーし、間合いを保ったままパンチを空振りさせる"
+            },
+            {
+              "label": "4",
+              "detail": "相手が空振りから戻っている間に、すかさずカウンターを打つ"
+            },
+            {
+              "label": "5",
+              "detail": "追撃で止まらないよう、すぐ移動とガードに戻る"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "First Person Boxing KOガイド",
+          "description": "無茶なスイングではなく、正確なパンチ、防御の反応、スタミナ管理でFirst Person BoxingのKOチャンスを作ります。",
+          "href": "/guide/first-person-boxing-how-to-win",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "間合い",
+              "detail": "遠・中・近・離脱のゾーンを使い分け、2発当てて角度をつけて離れる"
+            },
+            {
+              "label": "タイミング",
+              "detail": "パンチがまだ溜まっている間ではなく、踏み込みの猶予の中でカウンターを打つ"
+            },
+            {
+              "label": "スタミナ",
+              "detail": "まとめて打ち、終盤にガードが下がらないよう余力を残す"
+            },
+            {
+              "label": "ガード",
+              "detail": "手を高く保ち、相手の空振りをKOの好機に変える"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "First Person Boxing アップデート履歴",
+          "description": "パンチトラッキングやヒット判定の調整から新しいドリル、モード、快適性の改善まで、First Person Boxingのアップデートを追います。",
+          "href": "/community/first-person-boxing-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "トラッキング",
+              "detail": "パッチで頭と手の補間が滑らかになり、ジャブが空中で止まらなくなります"
+            },
+            {
+              "label": "ヒット判定",
+              "detail": "グローブとあごの衝突判定が厳密になり、クリーンヒットが入りゴーストヒットが減ります"
+            },
+            {
+              "label": "バランス",
+              "detail": "ダメージ、スタミナ、KOしきい値はアップデートごとに再調整されます"
+            },
+            {
+              "label": "モード",
+              "detail": "新しいジム、トレーニングドリル、マルチプレイのキューが順次追加されます"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "First Person Boxing 総合ガイド",
+          "description": "First Person Boxingの全体像。一人称視点で何が変わるのか、PvPとAI練習の仕組み、そして最短でリングに慣れる方法をまとめます。",
+          "href": "/guide/first-person-boxing-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "対応環境",
+              "detail": "PC、モバイル、コンソールのRobloxでプレイでき、モーション操作にも対応します"
+            },
+            {
+              "label": "PvP",
+              "detail": "ランク戦やカジュアル戦で他プレイヤーと戦い、プレッシャー下での読みを試す"
+            },
+            {
+              "label": "練習",
+              "detail": "AI相手にトレーニングし、構え、ガード、カウンターのタイミングを安全に磨く"
+            },
+            {
+              "label": "準備",
+              "detail": "プレイスペースを片付け、実戦の前に操作マップを覚える"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "First Person Boxing よくある質問",
+      "description": "First Person Boxingに関するよくある質問に手早く回答します。",
+      "items": [
+        {
+          "question": "First Person Boxingとは何ですか？",
+          "answer": "First Person Boxingは、開発者Can You Box?によるRobloxの一人称視点ボクシング体験です。自分の目で戦い、相手の予備動作を読みながら、PvPマッチやAI練習で実際にパンチを打ち込みます。"
+        },
+        {
+          "question": "First Person Boxingはどうやって始めますか？",
+          "answer": "安全なプレイスペースを確保し、操作マップを覚え、初試合の前に構えとガードを練習しましょう。初心者ガイドで準備、フットワーク、パンチトラッキングを順を追って解説しています。"
+        },
+        {
+          "question": "First Person Boxingの操作は？",
+          "answer": "移動はWASD、前の手のジャブはマウス左ボタン、後ろの手のクロスは右ボタン、ブロック／ガードはスペースキーです。スウェーはダブルタップか専用キーに割り当てられ、すべての入力を再設定できます。"
+        },
+        {
+          "question": "First Person Boxingにコードはありますか？",
+          "answer": "コードはアップデートや節目に配布されます。有効になったらコードメニューに記載どおり貼り付けて、ゲームを閉じる前に確定してください。コードページでは現在有効なものを追跡しています。"
+        },
+        {
+          "question": "First Person Boxingが上手くなるには？",
+          "answer": "防御が攻撃を生みます。スウェーとカウンターのサイクルを練習し、ラウンドを通してスタミナを管理し、苦手な相手スタイルの対策ガイドを読み込みましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "First Person Boxingを極める準備はできましたか？",
+      "description": "初試合からランク戦で使えるカウンターまで、コミュニティWikiが操作、ガード、スタミナ管理、PvP戦略を無料の最新ガイドでカバーします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "First Person Boxing ガイド：遊び方・コツ・戦略",
+    "overviewDescription": "初心者向けの手順、上級テクニック、実戦で勝つための戦略まで、RobloxのFirst Person Boxingの遊び方をすべてのレベル向けに解説します。"
+  },
+  "codes": {
+    "overviewTitle": "First Person Boxing コード：有効コードと入力方法",
+    "overviewDescription": "現在有効なFirst Person Boxingコードを一覧にまとめ、ゲーム内報酬を無料で受け取るための順を追った入力手順も解説します。"
+  },
+  "combat": {
+    "overviewTitle": "First Person Boxing 戦闘ガイド：パンチ・回避・カウンター",
+    "overviewDescription": "パンチ技術、ブロック、回避、カウンター、コンボを習得し、どんな相手でも読み切って早めに試合を終わらせましょう。"
+  },
+  "progression": {
+    "overviewTitle": "First Person Boxing 成長ガイド：レベル上げ・ランク・ビルド",
+    "overviewDescription": "最速のXPルート、ランキングシステム、ランク、おすすめビルドを扱う成長ガイドで、First Person Boxingのレベル上げを加速させましょう。"
+  },
+  "controls": {
+    "overviewTitle": "First Person Boxing 操作：キー割り当てとコントローラー設定",
+    "overviewDescription": "PC、コントローラー、モバイル向けのFirst Person Boxingの操作とキー割り当てを網羅し、自分の戦い方に合うレイアウトを組めるようにします。"
+  },
+  "modes": {
+    "overviewTitle": "First Person Boxing モード：ランク戦・マルチプレイ・トレーニング",
+    "overviewDescription": "ランク戦やマルチプレイのロビーからプライベートサーバー、ソロ練習部屋まで、First Person Boxingのすべてのモードを紹介します。"
+  },
+  "community": {
+    "overviewTitle": "First Person Boxing コミュニティ：更新情報・Discord・ベータ",
+    "overviewDescription": "First Person Boxingの更新情報、ベータのニュース、公式Discord、Redditコミュニティの最新情報をお届けします。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくお待ちください！",
+    "noActiveCodes": "現在有効なコードはありません",
+    "stayTuned": "新しいコードは近日公開予定です"
+  },
+  "footer": {
+    "aboutTitle": "First Person Boxing 攻略Wiki",
+    "about": "First Person Boxing 攻略Wikiは、操作、戦闘システム、回避、カウンター、スタミナ管理、PvP戦略、そして必須のゲーム知識を扱う独立系のファン制作ガイドハブです。新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 First Person Boxing 攻略Wiki。RobloxおよびFirst Person Boxingの開発者とは提携していません。",
+    "description": "Robloxの一人称視点ボクシング。回避し、カウンターを決め、ガードを固め、スタミナを管理して試合に勝ちましょう。",
+    "playGame": "Robloxでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "戦闘ガイド",
+    "beginnerGuide": "初心者ガイド",
+    "combatGuides": "戦闘ガイド",
+    "codesGuides": "コード",
+    "progressionGuides": "成長",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

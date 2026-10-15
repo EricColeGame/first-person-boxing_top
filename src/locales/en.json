@@ -467,7 +467,9 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "noActiveCodes": "No active codes currently available",
+    "stayTuned": "Check back soon for new codes"
   },
   "footer": {
     "aboutTitle": "First Person Boxing Wiki",
