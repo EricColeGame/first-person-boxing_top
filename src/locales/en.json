@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the stance, guard, and footwork that make First Person Boxing click, plus the play-space setup and drills that stop bad habits before they start."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Controls & Keybinds",
+          "description": "Map movement, jabs, crosses, blocking, and slipping on keyboard, gamepad, or VR so every input fires the moment an opening appears."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Slip & Counter",
+          "description": "Read an opponent's commitment, slip off the punch line at the last safe moment, and fire a short counter before the guard comes back."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in First Person Boxing."
+          "title": "Working Codes",
+          "description": "Check the latest First Person Boxing codes, follow the step-by-step redeem flow, and know which rewards are worth prioritizing first."
         }
       ]
     },
@@ -66,78 +66,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Controls",
+        "Slip & Counter",
+        "All Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Stance, guard, footwork, and gear setup for your first First Person Boxing sessions.",
+          "href": "/guide/first-person-boxing-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Working Codes",
+          "description": "Every live First Person Boxing code plus the step-by-step redeem flow.",
+          "href": "/codes/first-person-boxing-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Controls & Keybinds",
+          "description": "Keyboard, gamepad, and VR layouts for movement, punches, and defense.",
+          "href": "/controls/first-person-boxing-controls"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Slip & Counter Attacks",
+          "description": "The three counter windows and how to punish a committed punch.",
+          "href": "/combat/first-person-boxing-counter-attacks"
+        },
+        {
+          "badge": "New",
+          "title": "Dodging Guide",
+          "description": "Slip, roll, duck, and step-out techniques drilled into muscle memory.",
+          "href": "/combat/first-person-boxing-dodging"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "How to Win Fights",
+          "description": "Distance, timing, and stamina management across every round.",
+          "href": "/guide/first-person-boxing-how-to-win"
+        },
+        {
+          "badge": "Popular",
+          "title": "Combat Guide",
+          "description": "Slip timing, guard discipline, and matchup plans for common opponent styles.",
+          "href": "/guide/first-person-boxing-combat-guide"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Advanced Techniques",
+          "description": "Push past the basics with higher-level movement and punch selection.",
+          "href": "/guide/first-person-boxing-advanced-techniques"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Update Log",
+          "description": "Changes to combat, controls, and modes as they ship.",
+          "href": "/community/first-person-boxing-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is First Person Boxing?",
       "paragraphs": [
-        "First Person Boxing is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "First Person Boxing is a first-person boxing experience on Roblox developed by Can You Box?. Instead of watching a fighter from the outside, you look through your own eyes, read your opponent's tells, and land every punch yourself across PvP matches and AI practice sessions.",
+        "Exchanges are built on stance, guard discipline, and stamina management rather than button combos. Slip timing, distance control, and counter windows decide who wins a round, and our First Person Boxing wiki breaks each system down with keybind tables, step-by-step drills, and matchup guides."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Can You Box?"
         },
         {
           "label": "Platform",
@@ -145,186 +145,268 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Boxing / Fighting"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "391.3K+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Players Online",
+          "value": "1,646"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Server Size",
+          "value": "16"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Last Updated",
+          "value": "Oct 15, 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore First Person Boxing Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every core First Person Boxing system in one place: controls and keybinds, beginner and combat guides, slip-and-counter timing, knockout tactics, active codes, and update history.",
       "modules": [
         {
           "order": 1,
-          "name": "First Person Boxing Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/first-person-boxing-codes",
-          "displayType": "code-box",
+          "name": "First Person Boxing Beginner Guide",
+          "description": "New to the ring? This First Person Boxing beginner guide covers setup, stance, footwork, and punch tracking with a clear path from your first match to landing clean counters.",
+          "href": "/guide/first-person-boxing-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "1",
+              "detail": "Set up a clear play space and calibrate your headset or controller before the first bell"
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "2",
+              "detail": "Build a balanced stance with your lead foot forward and hands at cheekbone height"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Snap straight punches out and back to guard so the tracker reads clean lines"
+            },
+            {
+              "label": "4",
+              "detail": "Treat defense first: block, slip, and reset instead of trading wild swings"
+            },
+            {
+              "label": "5",
+              "detail": "Take your fundamentals into a first match and review what broke down"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/first-person-boxing-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "First Person Boxing Controls",
+          "description": "Every input that matters in First Person Boxing: movement, jabs, crosses, blocking, and slipping across keyboard, gamepad, and VR, with exact bindings and rebinding tips.",
+          "href": "/controls/first-person-boxing-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "W A S D",
+              "detail": "Move and circle — keeps footwork on one hand with standard FPS muscle memory"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Mouse 1",
+              "detail": "Jab (lead hand) — the fastest input for finding range and testing a guard"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Mouse 2",
+              "detail": "Cross (rear hand) — pairs with the jab so both punches share one hand"
+            },
+            {
+              "label": "Space",
+              "detail": "Block / guard (hold) — thumb or pinky, never a punch finger"
+            },
+            {
+              "label": "Shift + Punch",
+              "detail": "Uppercut modifier — prevents accidental mis-inputs mid-exchange"
+            },
+            {
+              "label": "Double-tap A / D",
+              "detail": "Slip left or right — keeps your hands free to fire the counter"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/first-person-boxing-tier-list",
+          "name": "First Person Boxing Combat Tips",
+          "description": "The techniques that decide First Person Boxing exchanges, ranked from the slip-and-counter read at the top down to the guard fundamentals every fighter needs.",
+          "href": "/guide/first-person-boxing-combat-guide",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Slip and counter — read the commitment, move off the line, and punish the recovery window"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Distance control — own the long, mid, short, and break ranges instead of guessing the gap"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Stamina discipline — punch in bunches and keep enough gas for the late rounds"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Guard fundamentals — chin tucked and hands high so missed punches become openings"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/first-person-boxing-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "First Person Boxing Codes",
+          "description": "The latest First Person Boxing codes, what each reward gives you, and a step-by-step redeem flow so you can claim everything before it expires.",
+          "href": "/codes/first-person-boxing-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "COMING-SOON",
+              "detail": "No First Person Boxing codes are live right now — new drops arrive alongside updates"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "CODES-MENU",
+              "detail": "Open the Codes button in the main menu or shop, paste the code, and confirm"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "CASE-SENSITIVE",
+              "detail": "Paste codes exactly as written; a trailing space or stray capital will fail"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/first-person-boxing-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "First Person Boxing Slip and Counter Guide",
+          "description": "How slipping and blocking turn a missed punch into free damage. Follow the five-step cycle for defensive timing, counter windows, and resetting to range.",
+          "href": "/combat/first-person-boxing-counter-attacks",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Confirm the opponent is closing in for a punch, not feinting to draw a reaction"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Identify the attack line and move off it, not with it"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Slip at the last safe moment so the punch misses but you stay in range"
+            },
+            {
+              "label": "4",
+              "detail": "Counter immediately while the opponent is still recovering from the miss"
+            },
+            {
+              "label": "5",
+              "detail": "Reset to movement and guard so you are not stationary for the follow-up"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/first-person-boxing-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "First Person Boxing Knockout Guide",
+          "description": "Create knockout chances in First Person Boxing through accurate punching, defensive reactions, and stamina management instead of wild swinging.",
+          "href": "/guide/first-person-boxing-how-to-win",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Range",
+              "detail": "Own the long, mid, short, and break zones to land two shots and exit at an angle"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Timing",
+              "detail": "Fire counters inside the commitment window, not while the punch is still loading"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Stamina",
+              "detail": "Punch in bunches and keep enough gas so your guard does not drop late"
+            },
+            {
+              "label": "Guard",
+              "detail": "Keep hands high so an opponent's missed punch becomes your knockout opening"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "First Person Boxing Update Log",
+          "description": "Follow First Person Boxing updates as they ship, from punch tracking and hit detection tuning to new drills, modes, and quality-of-life changes.",
+          "href": "/community/first-person-boxing-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tracking",
+              "detail": "Patches smooth head and hand interpolation so jabs stop sticking mid-air"
+            },
+            {
+              "label": "Impact",
+              "detail": "Tighter glove and chin collision volumes make clean shots land and phantom misses drop"
+            },
+            {
+              "label": "Balance",
+              "detail": "Damage, stamina, and knockout thresholds get rebalanced between updates"
+            },
+            {
+              "label": "Modes",
+              "detail": "New gyms, training drills, and multiplayer queues arrive over time"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "First Person Boxing Game Guide",
+          "description": "An overview of First Person Boxing: what the first-person view changes, how PvP and AI practice work, and the fastest way to get comfortable in the ring.",
+          "href": "/guide/first-person-boxing-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Platforms",
+              "detail": "Play on Roblox across PC, mobile, and console, with motion-friendly setups supported"
+            },
+            {
+              "label": "PvP",
+              "detail": "Fight other players in ranked and casual matches to test your reads under pressure"
+            },
+            {
+              "label": "Practice",
+              "detail": "Train against AI opponents to drill stance, guard, and counter timing safely"
+            },
+            {
+              "label": "Setup",
+              "detail": "Clear your play space and learn the control map before your first real match"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "First Person Boxing FAQ",
       "description": "Quick answers to the most common questions about First Person Boxing.",
       "items": [
         {
           "question": "What is First Person Boxing?",
-          "answer": "First Person Boxing is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "First Person Boxing is a first-person boxing experience on Roblox from developer Can You Box?. You fight through your own eyes, reading opponent tells and throwing real punches in PvP matches and AI practice sessions."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I start playing First Person Boxing?",
+          "answer": "Clear a safe play space, learn the control map, and drill your stance and guard before your first match. Our beginner guide walks through setup, footwork, and punch tracking step by step."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What are the First Person Boxing controls?",
+          "answer": "Movement sits on WASD, the lead-hand jab on the left mouse button, the rear-hand cross on the right, and block or guard on the space bar. Slips map to double-taps or dedicated keys, and every input can be rebound."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Are there First Person Boxing codes?",
+          "answer": "Codes arrive around updates and milestones. When they go live, paste them exactly as written in the Codes menu and confirm before closing the game. Our codes page tracks what is active right now."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I get better at First Person Boxing?",
+          "answer": "Defense creates offense. Drill the slip-and-counter cycle, manage stamina across rounds, and study matchup guides for the opponent styles you keep losing to."
         }
       ]
     },
