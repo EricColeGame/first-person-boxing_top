@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Controls, Combat Mechanics, Counters & Beginner Guides",
   description: "Learn First Person Boxing strategies, controls, combat mechanics, stamina management, guards, counters, and beginner tips to improve your fights and master the ring.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://first-person-boxing.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://first-person-boxing.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@first-person-boxing.top",
   gameUrl: "https://www.roblox.com/games/132956556682909/First-Person-Boxing",
   heroVideoId: "AldbTGIADGg", // First Person Boxing (Roblox) first-person gameplay showcase
   social: {
