@@ -72,10 +72,24 @@ export async function SiteFooter({ locale }: { locale: string }) {
 function FooterList({ locale, title, links }: { locale: string; title: string; links: string[][] }) { return <div><h4 className="font-semibold text-foreground">{title}</h4><ul className="mt-3 space-y-2 text-sm text-muted-foreground">{links.map(([label, href]) => <li key={href}><Link className="hover:text-foreground" href={href.startsWith("/") ? localizeHref(href, locale) : href}>{label}</Link></li>)}</ul></div>; }
 
 export function TrailerCard({ videoId }: { videoId: string }) {
+  const cover = videoId ? `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg` : "/images/hero.webp";
+  const coverFallback = videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : "/images/hero.webp";
   return (
     <div className="group relative cursor-pointer overflow-hidden rounded-2xl border border-border shadow-lg transition-all duration-200">
       <div className="relative aspect-video w-full">
-        <img src={videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : "/images/hero.webp"} alt={siteConfig.name} className="size-full object-cover transition-all duration-200 group-hover:brightness-80" onError={(e) => { (e.target as HTMLImageElement).src = "/images/hero.webp"; }} />
+        <img
+          src={cover}
+          alt={`${siteConfig.shortName} Official Trailer`}
+          className="size-full object-cover transition-all duration-200 group-hover:brightness-80"
+          onError={(e) => {
+            const img = e.target as HTMLImageElement;
+            if (!img.dataset.fallback) {
+              img.dataset.fallback = "hq";
+              if (coverFallback !== cover) { img.src = coverFallback; return; }
+            }
+            if (img.dataset.fallback !== "local") { img.dataset.fallback = "local"; img.src = "/images/hero.webp"; }
+          }}
+        />
       </div>
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="flex size-20 items-center justify-center rounded-full bg-primary/10 backdrop-blur-md transition-transform duration-200 group-hover:scale-105 sm:size-24">
